@@ -1,4 +1,4 @@
-# 🚀 Product Operating Model & Team Structures
+# Product Operating Model & Team Structures
 
 A comprehensive repository on the **Product Operating Model**, team organizational structures, and frameworks for establishing product vision and strategy. This documentation is compiled and systematized based on the standard theories and methodologies of leading product management expert **Roman Pichler**.
 
