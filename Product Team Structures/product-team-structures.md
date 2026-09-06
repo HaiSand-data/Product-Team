@@ -1,7 +1,6 @@
 # Cơ cấu Tổ chức Đội ngũ Sản phẩm (Product Team Structures)
 
-Tài liệu này cung cấp cái nhìn chi tiết và toàn diện về các mô hình cấu trúc đội ngũ phát triển sản phẩm dựa trên **Mô hình Vận hành Sản phẩm (Product Operating Model)**. Tài liệu được thiết kế tối ưu bằng định dạng Markdown để lưu trữ, chia sẻ hoặc làm tài liệu hướng dẫn (README) trên GitHub.
-
+Tài liệu này cung cấp cái nhìn chi tiết và toàn diện về các mô hình cấu trúc đội ngũ phát triển sản phẩm dựa trên **Mô hình Vận hành Sản phẩm (Product Operating Model)**.
 ---
 
 ## 1. Bản chất: Chuyển dịch từ Dự án (Project) sang Sản phẩm (Product)
